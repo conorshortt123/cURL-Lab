@@ -25,3 +25,6 @@
 	curl -o computer-science.txt https://duckduckgo.com/?q=computer+science&t=h_&ia=web/
 
 7.	curl -o gmit.json https://duckduckgo.com/?q=gmit&format=json
+
+8.	354 HTTP requests from "The Irish Times".
+	341 HTTP requests from "The Independent".
